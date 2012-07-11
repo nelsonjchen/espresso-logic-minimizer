@@ -1,0 +1,41 @@
+/* config.h.in.  Generated automatically from configure.in by autoheader.  */
+
+/* Define to empty if the keyword does not work.  */
+#undef const
+
+/* Define to `int' if <sys/types.h> doesn't define.  */
+#undef gid_t
+
+/* Define if you have the ANSI C header files.  */
+#undef STDC_HEADERS
+
+/* Define to `int' if <sys/types.h> doesn't define.  */
+#undef uid_t
+
+/* Define if you have the strcspn function.  */
+#undef HAVE_STRCSPN
+
+/* Define if you have the strerror function.  */
+#undef HAVE_STRERROR
+
+/* Define if you have the strspn function.  */
+#undef HAVE_STRSPN
+
+/* Define if you have the strstr function.  */
+#undef HAVE_STRSTR
+
+/* Define if you have the <limits.h> header file.  */
+#undef HAVE_LIMITS_H
+
+/* Define if you have the <sys/time.h> header file.  */
+#undef HAVE_SYS_TIME_H
+
+/* Define if you have the <unistd.h> header file.  */
+#undef HAVE_UNISTD_H
+
+/* Name of package */
+#undef PACKAGE
+
+/* Version number of package */
+#undef VERSION
+
